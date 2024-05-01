@@ -1,0 +1,1 @@
+database = {'ripudaman': {'pass': 'password123', 'highscore': 52.42189950000011}, 'vedansh': {'pass': 'vedu123', 'highscore': 193.73795760000212}, 'rajan': {'pass': 'RAJAN123', 'highscore': 75.66838680000365}}
